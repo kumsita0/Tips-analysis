@@ -52,3 +52,13 @@ print(highest_math_student["name"], "-", highest_math_student["math"])
 
 print("\nStudent with Highest Science Score:")
 print(highest_science_student["name"], "-", highest_science_student["science"])
+
+#Answer- 
+Average Math Score: 83.6
+Average Science Score: 86.4
+
+Student with Highest Math Score:
+Charlie - 92
+
+Student with Highest Science Score:
+Emma - 92
