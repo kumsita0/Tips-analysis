@@ -1,9 +1,7 @@
-# Student-score-analysis
-The goal is to setup Python environment, write Python code, and understand the format that we need to follow to solve similar problems.  The Python code file shows code, and should also show the results. 
+# Tips-analysis
+The goal is to setup Python environment, write Python code, and goal is to use Tips dataset from the Seaborn library and learn what the data shows about tips and total_bill.
 
-# Student Score Analysis
-
-This project uses Python to analyze student math and science scores.
+---
 
 ## Features
 - Calculate average scores
