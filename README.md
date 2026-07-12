@@ -195,20 +195,19 @@ Deploy analysis as a web application.
 
 Follow these steps to run this project locally.
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 Open your terminal or command prompt and run: ```bash
 git clone https://github.com/kumsita0/Restaurant-Tips-Analysis.git
 
-
-## 2. Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 cd Restaurant-Tips-Analysis
 
-## 3. Install Required Libraries
+### 3. Install Required Libraries
 Install all dependencies listed in requirements.txt
 pip install -r requirements.txt
 
-## 4. Launch Jupyter Notebook
+### 4. Launch Jupyter Notebook
 Open the notebook file: Restaurant_Tips_Analysis.ipynb
 
 ---
