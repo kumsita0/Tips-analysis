@@ -11,6 +11,9 @@ The analysis focuses on identifying patterns between:
 
 The project demonstrates fundamental data analysis and visualization techniques using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
+<img width="1305" height="391" alt="image" src="https://github.com/user-attachments/assets/7d1a10a4-9a2e-4683-89a2-6b8e6963c3eb" />
+
+
 ---
 
 # Business Problem / Objective
