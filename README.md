@@ -136,11 +136,9 @@ The analysis revealed:
 
 | File / Folder | Description |
 |---------------|-------------|
-| `Restaurant_Tips_Analysis.ipynb` | Main Jupyter Notebook containing Python code, exploratory data analysis, and visualizations |
-| `README.md` | Documentation explaining project objectives, dataset, analysis process, findings, and usage instructions |
-| `requirements.txt` | Contains required Python packages and dependencies |
-| `images/` | Stores generated plots and visualization images |
-| `.gitignore` | Prevents unnecessary files from being uploaded to GitHub |
+| `Restaurant_Tips_Analysis.ipynb` | Main Jupyter Notebook containing Python code, exploratory data analysis, and visualization analysis |
+| `README.md` | Contains project overview, business problem, dataset information, EDA process, visualizations, key findings, and project results |
+| `requirements.txt` | Contains Python libraries and dependencies required to run the project |
 
 ---
 
