@@ -26,9 +26,7 @@ The objective of this analysis is to:
 
 ---
 
-# Dataset
-
-## Dataset Name:
+# Dataset Used
 **Restaurant Tips Dataset**
 
 ## Source:
