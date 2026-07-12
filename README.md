@@ -54,8 +54,6 @@ The dataset contains restaurant transaction details including:
 
 ---
 
-# Data Preparation / Technology Used
-
 ## Data Preparation
 
 Steps performed:
@@ -136,17 +134,13 @@ The analysis revealed:
 ---
 # Repository Structure
 
-Restaurant-Tips-Analysis/
-│
-├── Restaurant_Tips_Analysis.ipynb
-│
-├── README.md
-│
-├── images/
-│ └── total_bill_vs_tip_scatterplot.png
-│
-└── requirements.txt
-
+| File / Folder | Description |
+|---------------|-------------|
+| `Restaurant_Tips_Analysis.ipynb` | Main Jupyter Notebook containing Python code, exploratory data analysis, and visualizations |
+| `README.md` | Documentation explaining project objectives, dataset, analysis process, findings, and usage instructions |
+| `requirements.txt` | Contains required Python packages and dependencies |
+| `images/` | Stores generated plots and visualization images |
+| `.gitignore` | Prevents unnecessary files from being uploaded to GitHub |
 
 ---
 
@@ -199,19 +193,32 @@ Deploy analysis as a web application.
 
 ---
 
+# How to Run
+
+Follow these steps to run this project locally.
+
+## 1. Clone the Repository
+
+Open your terminal or command prompt and run: ```bash
+git clone https://github.com/kumsita0/Restaurant-Tips-Analysis.git
+
+
+## 2. Navigate to the Project Directory
+cd Restaurant-Tips-Analysis
+
+## 3. Install Required Libraries
+Install all dependencies listed in requirements.txt
+pip install -r requirements.txt
+
+## 4. Launch Jupyter Notebook
+Open the notebook file: Restaurant_Tips_Analysis.ipynb
+
+---
+
 Author
 
 Kum Sita
 
 GitHub: https://github.com/kumsita0
-
----
-
-# How to Run
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/kumsita0/Restaurant-Tips-Analysis.git
 
 ---
