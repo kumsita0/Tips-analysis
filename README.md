@@ -112,6 +112,8 @@ A scatter plot was created to analyze the relationship between restaurant bills 
 - Color grouping: Meal Time (Lunch/Dinner)
 - Style grouping: Smoker Status
 
+<img width="857" height="690" alt="image" src="https://github.com/user-attachments/assets/aeb2fc0a-d42c-4e25-8f3a-1fe96f4d1599" />
+
 
 ### Key Visualization Insight:
 
