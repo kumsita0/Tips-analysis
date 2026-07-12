@@ -83,13 +83,13 @@ Steps performed:
 
 The following exploratory analysis was performed:
 
-## 1. Dataset Inspection
+### 1. Dataset Inspection
 
 - Loaded the dataset.
 - Reviewed sample records.
 - Examined available features.
 
-## 2. Relationship Analysis
+### 2. Relationship Analysis
 
 Analyzed:
 
@@ -101,7 +101,7 @@ Analyzed:
 
 # Visualizations
 
-## Scatter Plot: Total Bill vs Tip
+### Scatter Plot: Total Bill vs Tip
 
 A scatter plot was created to analyze the relationship between restaurant bills and tips.
 
